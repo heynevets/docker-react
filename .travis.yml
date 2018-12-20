@@ -20,3 +20,5 @@ deploy:
   access_key_id: "$AWS_ACCESS_KEY"
   secret_access_key:
     secure: "$AWS_SECRET_KEY"
+
+# resources/_runtime/_embedded_extensions/docker-test
